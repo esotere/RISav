@@ -1,6 +1,15 @@
 .info {
+    width: 520px;
     display: flex;
     margin: 20px 0 40px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-flow: row;
+
+}
+
+.info2 {
+
 }
 .button {
     margin: 5px;
